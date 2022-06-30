@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sjh-judeee3
 - 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... Programming Languages (Python, C++, etc.)
+- 🌱 I’m currently learning ... Programming Languages (Python, C++, etc.), Data Structure and Algorithm with C
 - 💞️ I’m looking to collaborate on cool projects that help daily lives
 - 📫 How to reach me: judys0303@gmail.com
 
