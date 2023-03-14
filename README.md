@@ -16,7 +16,9 @@ I am a student majoring Data Science at [Korea University](https://www.korea.ac.
 This is my [Tistory blog](https://sjh-judeee3.tistory.com/) where I upload what I've learned in different fields of Computer and Data Science.
 
 ### 🌱 I’m currently learning ...
-- Computer Science Fundamentals: Data Structures, Algorithm, Machine Learning, Computer Structure, etc.
+- Computer Science Fundamentals: Data Structures, Algorithm, Machine Learning, Computer Structure, Database, etc.
+- Data Science Fundamentals: Data Science Applications, etc.
+- Artifical Intelligence: Reinforcement Learning, etc.
 - Programming Languages: C, C++, Python, R etc.
 - Mathematics in Statistics: Statistical Mathematics, Linear Algebra, Probability Theory, etc.
 
